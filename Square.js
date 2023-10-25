@@ -3,4 +3,4 @@ function square(num) {
 }
 
 console.log(square(25));
-console.log(square(20));
+
